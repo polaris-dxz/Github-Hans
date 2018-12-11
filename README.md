@@ -9,3 +9,8 @@
 这里推荐使用后者，因为Violentmonkey有搜索该网站脚本以及同步功能，总之比Tampermonkey要好用一点。
 2. 安装好插件后点击插件，选择【添加新脚本】，然后把 main.js 的代码复制粘贴就好了。
 3. 不过还是建议大家不要过于依赖Google翻译或者插件，因为本身用到的单词也不多嘛，没事查查字典也是极好的。
+
+
+
+Violentmonke 百度云盘：
+链接: http://pan.baidu.com/s/1pLLkU2R 密码: rwkg
