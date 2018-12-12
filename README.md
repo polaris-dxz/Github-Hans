@@ -1,6 +1,6 @@
 # Github 汉化插件
 ## 一、关于插件
-该插件基于[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)。
+该插件基于[Tampermonkey](https://tampermonkey.net/)。
 因为自己第一次接触Tampermonkey这个插件是因为破解各大视频网站VIP，后来仔细研究了一下这个插件发现也不难上手，于是这个汉化插件就当一个小demo练练手吧。
 
 ## 二、如何使用
